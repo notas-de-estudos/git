@@ -13,4 +13,12 @@ Merge: `git branch teste`
 
 ## SOLUCIONANDO CONFLITOS
 
+Passos para resolver um conflito em que duas pessoas em branches diferentas tentaram fazer uma mesma feature:
+
+- Decida com a pessoa o que vão escolher no final das contas.
+- Na parte do código em conflito faça as alterações manualmente.
+- Na main execute:
+    - `git add .`
+    - `git commit -m` (não precisa passar nenhuma mensagem, o git já sabe que está resolvendo um conflito)
+
 
