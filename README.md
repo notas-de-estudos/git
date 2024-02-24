@@ -43,3 +43,9 @@ O fork é bastante utilizado para contribuir com projetos open source.
  - Crie um PR no Github do seu repositório.
  - Em caso de você ser o gerente do projeto, basta aprovar o PR e confirmar a merge.
 
+ ## ISSUES
+
+ Issues são sugestões de outros pessoas no seu repositório.
+
+ >:bulb: Para resolver uma issue de forma automática pelo terminal e referencir o commit na mudança, ao invés de fazer manual, realize as modicações sugeridas e quando for dar um commit utilize a sintaxe: `git commit -m "Nome do commit Fixed #1"`. O número após a # é relativo ao número da issue aberta no seu repositório.
+
