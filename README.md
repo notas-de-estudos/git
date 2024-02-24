@@ -47,5 +47,5 @@ O fork é bastante utilizado para contribuir com projetos open source.
 
  Issues são sugestões de outros pessoas no seu repositório.
 
- >:bulb: Para resolver uma issue de forma automática pelo terminal e referencir o commit na mudança, ao invés de fazer manual, realize as modicações sugeridas e quando for dar um commit utilize a sintaxe: `git commit -m "Nome do commit Fixed #1"`. O número após a # é relativo ao número da issue aberta no seu repositório.
+ >:bulb: Para resolver uma issue de forma automática pelo terminal e referencir o commit na mudança, ao invés de fazer manual, realize as modicações sugeridas e quando for fazer o commit utilize a sintaxe: `git commit -m "Nome do commit Fixed #1"`. O número após a # é relativo ao número da issue aberta no seu repositório.
 
