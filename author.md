@@ -1,1 +1,0 @@
-Autor: Francisco Willem
