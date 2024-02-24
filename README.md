@@ -7,6 +7,7 @@
 - Criar branche e mudar para ela: `git checkout -b teste`
 - Deletar a branche: `git branch -d teste`
 - Deletar a branche com commites e sem fazer o merge: `git branch -D teste`
+- Visualizar branches: `git branch`
 
 >:warning: Para se fazer um `merge` você precisa estar na branch principal/de_destino.
 
@@ -28,4 +29,17 @@ Passos para resolver um conflito em que duas pessoas em branches diferentas tent
 
 >:bulb: É recomendado excluir uma branche depois que você fez o merge com a main.
 
+## FORK
+
+O fork é bastante utilizado para contribuir com projetos open source.
+
+- Visualizar histórico de um projeto: `git log --online`
+
+- Passos para fazer um Pull Request no projeto:
+ - Faça um fork
+ - Clone o repositório
+ - Faça suas features
+ - Dê um merge na main caso tenha usado uma branche, caso contrário de um push na main direto.
+ - Crie um PR no Github do seu repositório.
+ - Em caso de você ser o gerente do projeto, basta aprovar o PR e confirmar a merge.
 
