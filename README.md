@@ -36,12 +36,12 @@ O fork é bastante utilizado para contribuir com projetos open source.
 - Visualizar histórico de um projeto: `git log --online`
 
 - Passos para fazer um Pull Request no projeto:
- - Faça um fork
- - Clone o repositório
- - Faça suas features
- - Dê um merge na main caso tenha usado uma branche, caso contrário de um push na main direto.
- - Crie um PR no Github do seu repositório.
- - Em caso de você ser o gerente do projeto, basta aprovar o PR e confirmar a merge.
+    - Faça um fork
+    - Clone o repositório
+    - Faça suas features
+    - Dê um merge na main caso tenha usado uma branche, caso contrário de um push na main direto.
+    - Crie um PR no Github do seu repositório.
+    - Em caso de você ser o gerente do projeto, basta aprovar o PR e confirmar a merge.
 
  ## ISSUES
 
